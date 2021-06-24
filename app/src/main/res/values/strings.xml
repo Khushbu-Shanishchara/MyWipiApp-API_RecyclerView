@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWikiApp</string>
+    <string name="description" />
+    <string name="todo" />
+    <string name="title" />
+    <!--<string name="app_name">Android ListView With Image And Text</string>-->
+</resources>
